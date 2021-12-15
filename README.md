@@ -1,12 +1,12 @@
 # Overview
 
 - A simple interactive quiz app that asks questions and lets users answer the question.
-- Once the user submits the answer the app calculates and displays the answer on the header.
+- Once the user submits the answer, the app calculates and displays a score on the header.
 
 
 I 
 
-[Press this link for video description ](https://youtu.be/Mu3ox-kjbyk)
+[Press this link for video description ](https://youtu.be/m3MwXPTGRYM)
 
 # Development Environment
 
@@ -19,6 +19,6 @@ I
 # Useful Websites
 
 Here are lists of useful websites that I have used.
-* [W3-Schools](https://www.w3schools.com/python/python_intro.asp)
-* [Tutorial points](https://www.tutorialspoint.com/python/index.htm)
-* [Hang-man](https://www.youtube.com/watch?v=JNXmCOumNw0)
+* [W3-Schools](https://www.w3schools.com/)
+* [Tutorial points](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+* [Java-script](https://www.youtube.com/watch?v=W6NZfCO5SIk)
